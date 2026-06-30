@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5g0232/YP-C/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl2}
+  - {type: line-break, offset: 0, content: '', id: KR5g0232_YP-C_06weiji-01-0098b01}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl3}
+  - {type: line-break, offset: 7, content: '', id: KR5g0232_YP-C_06weiji-01-0098b02}
+  - {type: line-break, offset: 24, content: '', id: KR5g0232_YP-C_06weiji-01-0098b03}
+  - {type: 'kr:newline', offset: 31, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl4}
+  - {type: line-break, offset: 31, content: '', id: KR5g0232_YP-C_06weiji-01-0098b04}
+  - {type: line-break, offset: 41, content: '', id: KR5g0232_YP-C_06weiji-01-0098b05}
+  - {type: 'kr:newline', offset: 55, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl5}
+  - {type: line-break, offset: 55, content: '', id: KR5g0232_YP-C_06weiji-01-0098b06}
+  - {type: line-break, offset: 58, content: '', id: KR5g0232_YP-C_06weiji-01-0098b07}
+  - {type: punctuation, offset: 65, content: (, id: KR5g0232_YP-C_000-bkkpn1}
+  - {type: punctuation, offset: 71, content: ), id: KR5g0232_YP-C_000-bkkpn2}
+  - {type: line-break, offset: 75, content: '', id: KR5g0232_YP-C_06weiji-01-0098b08}
+  - {type: 'kr:newline', offset: 82, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl6}
+  - {type: line-break, offset: 82, content: '', id: KR5g0232_YP-C_06weiji-01-0098b09}
+  - {type: line-break, offset: 92, content: '', id: KR5g0232_YP-C_06weiji-01-0098b10}
+  - {type: 'kr:newline', offset: 106, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl7}
+  - {type: line-break, offset: 106, content: '', id: KR5g0232_YP-C_06weiji-01-0098b11}
+  - {type: line-break, offset: 109, content: '', id: KR5g0232_YP-C_06weiji-01-0098b12}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl8}
+  - {type: line-break, offset: 110, content: '', id: KR5g0232_YP-C_06weiji-01-0098b13}
+  - {type: 'kr:newline', offset: 118, content: '
+
+      ', id: KR5g0232_YP-C_000-bkkkrnewl9}
+  back: []
+hash: sha256:6aff0e30109d0db74ef7db2d997f94cf93b1dc29b3f105649e1b2b31ff6bb33d

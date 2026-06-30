@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0232/ZTDZ/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太清元道真經卷上元道者太上老君之无上道也老君道有三上中下也黄庭道有三上中下也又諸道各有三皆其次也老君中道與黃庭上道比諸道又次比之元道有三此經又其最上者故曰无上元道也此道至高虛无玄妙澹泊无爲動合自然故學者難親焉若非上士機高倏然玄悟不可也非謹懼於死攀向於生者不可也諸中道下道多慕上而行者此道難合故乆不降焉若機高上士特然行之則自得无量也謂虛恬无量通易无量暢適无量也又諸道皆有師奉皆明犯罰此道无諸師奉故无罰也諸道皆須擇山處靜或别處草庵乃可行之不然有損唯此道可塵世成之經曰鼻引口吐可去浮寒虛熱不可排積元炁也注氣可以通百關理萬病非養炁復元也咽炁可以救飢劣非自然充積也行炁可以潤脉悅膚非常道也此道歸根復命之道故曰元道如堅筋補髓固護五藏清利泥丸安住丹靈六不妄入三不妄出纖濁盡去真氣倘佯騰太虛蔚玉清上爲真君者皆此道也太清元道真經卷上
+  hash: sha256:255faced5d7a672a231cf9a8bb67fb04da9457d4d0fbf190336e9f3f5dfaca09
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0232_SJB_001-340460a, image: sjb/34/340460a.png}
+metadata:
+  title: 太清元道真經
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 03:00:31.677730'
+  source:
+    repository: kanripo
+    path: KR5g0232/KR5g0232_001.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:0c0a376e50cd2eee9ba77b35538fa8405edd5a033e948e24c7ffc4f8310d8e0a

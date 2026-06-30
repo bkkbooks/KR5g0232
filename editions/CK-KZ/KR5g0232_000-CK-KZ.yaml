@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0232/CK-KZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太清元道眞經序元道者玄元之上道黃老之心秘也元和中孟謫仙降世其胎親皆積至誠醕厚謫仙又至慈敦孝先感東山陶大通君先示死生之變因命執本根焉本根卽元道也次感南統樊大君戊戌嵗降之口授此經故皆大紀樞要直指長生久視之道蓋黃庭云至道不煩矣太清元道眞經卷上
+  hash: sha256:9866fcd3aa770f4f513c68add70cdddfaadec8f1040bf966b1726e95d7b98b5f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0232_CK-KZ_01p092b, image: JY072/CK-KZ_JY072_01p092b.png}
+metadata:
+  title: 太清元道真經
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 03:00:31.677730'
+  source:
+    repository: kanripo
+    path: KR5g0232/KR5g0232_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:69ed41d72e4e94f3e42238fe4c05b785b23195d0053768d1d84fd53e2ee04d60

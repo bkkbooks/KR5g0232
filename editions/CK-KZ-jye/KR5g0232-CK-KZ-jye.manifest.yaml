@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR5g0232/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0232/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太清元道真經
+  date: '2015-08-29 03:00:31.677730'
+  source:
+    repository: kanripo
+    path: KR5g0232
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0232_000-CK-KZ-jye.yaml, hash: 'sha256:ef04cb8f3153bb22538e10a1f0adf4ee132a1898d8f2bd515055dd6b3df53760'}
+  - {seq: 1, filename: KR5g0232_001-CK-KZ-jye.yaml, hash: 'sha256:1e6181e71743dcb5c5411a94febd160e0b4c419ee7f8393ee6287cf004559e87'}
+  - {seq: 2, filename: KR5g0232_002-CK-KZ-jye.yaml, hash: 'sha256:a7eb47261f72e682d03aa1e844160389a47e1161590bce3fff36d20c97a60bfb'}
+  - {seq: 3, filename: KR5g0232_003-CK-KZ-jye.yaml, hash: 'sha256:390e09cf0403ff1e6c47641a8eb510269840b79fb94a3fa34a0dffb7ac2fb3a1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0232_000-CK-KZ-jye.markers.yaml, hash: 'sha256:22b87dca4041c18fd09c74a006d46190e5d27a7410d8773d14814b93fd9be0b9'}
+  - {seq: 1, role: markers, filename: assets/KR5g0232_001-CK-KZ-jye.markers.yaml, hash: 'sha256:5cf1371dc5a9fec10aa212efed488570c57ce7943cdf697d70c0ce45db314562'}
+  - {seq: 2, role: markers, filename: assets/KR5g0232_002-CK-KZ-jye.markers.yaml, hash: 'sha256:0c682bb3f26d1d7fd7a43b256978447631e26161cb66664a27d53593251a3961'}
+  - {seq: 3, role: markers, filename: assets/KR5g0232_003-CK-KZ-jye.markers.yaml, hash: 'sha256:fcc6567ff9191933165f84f4390138a64c96bac0a51578955c0af20cc48df82d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0232_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 111
+  label: 太清元道眞經序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5g0232_CK-KZ_01p093a
+    span:
+    - body
+    - 0
+    - 240
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5g0232_CK-KZ_01p093b
+    span:
+    - body
+    - 0
+    - 1093
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5g0232_CK-KZ_01p096a
+    span:
+    - body
+    - 0
+    - 465
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:9d42f375dd718ec033935a0cf1655590632acaae4503e37402cbec81aa14422c

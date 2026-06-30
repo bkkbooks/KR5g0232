@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5g0232/CK-KZ/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl2}
+  - {type: line-break, offset: 0, content: '', id: KR5g0232_CK-KZ_01p092b01}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl3}
+  - {type: line-break, offset: 7, content: '', id: KR5g0232_CK-KZ_01p092b02}
+  - {type: line-break, offset: 24, content: '', id: KR5g0232_CK-KZ_01p092b03}
+  - {type: 'kr:newline', offset: 31, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl4}
+  - {type: line-break, offset: 31, content: '', id: KR5g0232_CK-KZ_01p092b04}
+  - {type: line-break, offset: 41, content: '', id: KR5g0232_CK-KZ_01p092b05}
+  - {type: 'kr:newline', offset: 55, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl5}
+  - {type: line-break, offset: 55, content: '', id: KR5g0232_CK-KZ_01p092b06}
+  - {type: line-break, offset: 58, content: '', id: KR5g0232_CK-KZ_01p092b07}
+  - {type: punctuation, offset: 65, content: (, id: KR5g0232_CK-KZ_000-bkkpn1}
+  - {type: punctuation, offset: 71, content: ), id: KR5g0232_CK-KZ_000-bkkpn2}
+  - {type: line-break, offset: 75, content: '', id: KR5g0232_CK-KZ_01p092b08}
+  - {type: 'kr:newline', offset: 82, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl6}
+  - {type: line-break, offset: 82, content: '', id: KR5g0232_CK-KZ_01p092b09}
+  - {type: line-break, offset: 92, content: '', id: KR5g0232_CK-KZ_01p092b10}
+  - {type: 'kr:newline', offset: 106, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl7}
+  - {type: line-break, offset: 106, content: '', id: KR5g0232_CK-KZ_01p092b11}
+  - {type: line-break, offset: 109, content: '', id: KR5g0232_CK-KZ_01p092b12}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl8}
+  - {type: line-break, offset: 110, content: '', id: KR5g0232_CK-KZ_01p092b13}
+  - {type: 'kr:newline', offset: 118, content: '
+
+      ', id: KR5g0232_CK-KZ_000-bkkkrnewl9}
+  back: []
+hash: sha256:58b96ae6fdff4bd0df9bbb7996310a0d256c243779b286b4586d239785c95757

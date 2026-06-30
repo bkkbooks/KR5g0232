@@ -1,0 +1,107 @@
+canonical_identifier: bkk:krp/KR5g0232/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5g0232_HFL_000-001a01}
+  - {type: page-break, offset: 0, content: '', id: KR5g0232_CK-KZ_01p092b, image: JY072/CK-KZ_JY072_01p092b.png}
+  - {type: variant, offset: 0, length: 7, content: 太清元道真經序, CK-KZ-jye: ''}
+  - {type: page-break, offset: 0, content: '', id: KR5g0232_YP-C_06weiji-01-0098b, image: JY072/06weiji-01-0098b.png}
+  - {type: page-break, offset: 0, content: '', id: KR5g0232_SJB_000-340459c, image: sjb/34/340459c.png}
+  - {type: variant, offset: 4, length: 1, content: 真, CK-KZ: 眞}
+  - {type: variant, offset: 4, length: 1, content: 真, YP-C: 眞}
+  - {type: 'kr:newline', offset: 7, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 7, content: '', id: KR5g0232_HFL_000-001a02}
+  - {type: variant, offset: 15, length: 1, content: 黄, CK-KZ: 黃}
+  - {type: variant, offset: 15, length: 1, content: 黄, CK-KZ-jye: 黃}
+  - {type: variant, offset: 15, length: 1, content: 黄, YP-C: 黃}
+  - {type: substitution, offset: 15, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: substitution, offset: 19, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
+  - {type: 'kr:newline', offset: 24, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 24, content: '', id: KR5g0232_HFL_000-001a03}
+  - {type: variant, offset: 36, length: 1, content: 醇, CK-KZ: 醕}
+  - {type: variant, offset: 36, length: 1, content: 醇, CK-KZ-jye: 醕}
+  - {type: variant, offset: 36, length: 1, content: 醇, YP-C: 醕}
+  - {type: 'kr:newline', offset: 41, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 41, content: '', id: KR5g0232_HFL_000-001a04}
+  - {type: 'kr:newline', offset: 58, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 58, content: '', id: KR5g0232_HFL_000-001a05}
+  - {type: punctuation, offset: 65, content: (, id: KR5g0232_krp_000-bkkpn1}
+  - {type: variant, offset: 67, length: 1, content: 即, CK-KZ: 卽}
+  - {type: variant, offset: 67, length: 1, content: 即, CK-KZ-jye: 卽}
+  - {type: variant, offset: 67, length: 1, content: 即, YP-C: 卽}
+  - {type: punctuation, offset: 71, content: ), id: KR5g0232_krp_000-bkkpn2}
+  - {type: 'kr:newline', offset: 75, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 75, content: '', id: KR5g0232_HFL_000-001a06}
+  - {type: variant, offset: 80, length: 1, content: 歲, CK-KZ: 嵗}
+  - {type: variant, offset: 80, length: 1, content: 歲, CK-KZ-jye: 嵗}
+  - {type: variant, offset: 80, length: 1, content: 歲, YP-C: 嵗}
+  - {type: 'kr:newline', offset: 92, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 92, content: '', id: KR5g0232_HFL_000-001a07}
+  - {type: 'kr:newline', offset: 109, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 109, content: '', id: KR5g0232_HFL_000-001a08}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl9}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl10}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 110, content: '', id: KR5g0232_HFL_000-001b, image: hfl/1055/1055-107.png}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl12}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl13}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl14}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl15}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl16}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl17}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl18}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl19}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl20}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl21}
+  - {type: 'kr:newline', offset: 110, content: '
+
+      ', id: KR5g0232_krp_000-bkkkrnewl22}
+  - {type: variant, offset: 110, length: 0, content: '', CK-KZ: 太清元道眞經卷上}
+  - {type: variant, offset: 110, length: 0, content: '', CK-KZ-jye: 太清元道眞經卷上}
+  - {type: variant, offset: 110, length: 0, content: '', YP-C: 太清元道眞經卷上}
+  back: []
+hash: sha256:01c88715d675c0e437e91a8c285a566845567121c3de7e34d1939a4f0562451c

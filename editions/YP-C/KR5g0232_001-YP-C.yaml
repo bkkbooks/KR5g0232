@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0232/YP-C/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 元道者太上老君之无上道也老君道有三上中下也黃庭道有三上中下也又諸道各有三皆其次也老君中道與黃庭上道比諸道又次比之元道有三此經又其最上者故曰无上元道也此道至高虛无玄妙澹泊无爲動合自然故學者難親焉若非上士機高翛然玄悟不可也非謹懼於死攀向於生者不可也諸中道下道多慕上而行者此道難合故久不降焉若機高上士特然行之則自得无量也謂虛恬无量通易无量暢適无量也又諸道皆有師奉皆明犯罰此道無諸師奉故无罰也諸道皆須擇山處靜或别處草庵乃可行之不然有損唯此道可塵世成之經曰鼻引口吐可去浮寒虛熱不可排積元炁也
+  hash: sha256:876054e98b288790c2f98587c303978c4228cbe7f04ba39ae309ed3624d994bf
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0232_YP-C_06weiji-01-0099a, image: JY072/06weiji-01-0099a.png}
+metadata:
+  title: 太清元道真經
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 03:00:31.677730'
+  source:
+    repository: kanripo
+    path: KR5g0232/KR5g0232_001.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:75e04a1d022fa7cb3c0d6f5bbecc33da562511f42eb21375a3447a456953c829
