@@ -20,8 +20,6 @@ markers:
   - {type: variant, offset: 15, length: 1, content: 黄, CK-KZ: 黃}
   - {type: variant, offset: 15, length: 1, content: 黄, CK-KZ-jye: 黃}
   - {type: variant, offset: 15, length: 1, content: 黄, YP-C: 黃}
-  - {type: substitution, offset: 15, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
-  - {type: substitution, offset: 19, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: 'kr:newline', offset: 24, content: '
 
       ', id: KR5g0232_krp_000-bkkkrnewl3}
@@ -104,4 +102,4 @@ markers:
   - {type: variant, offset: 110, length: 0, content: '', CK-KZ-jye: 太清元道眞經卷上}
   - {type: variant, offset: 110, length: 0, content: '', YP-C: 太清元道眞經卷上}
   back: []
-hash: sha256:01c88715d675c0e437e91a8c285a566845567121c3de7e34d1939a4f0562451c
+hash: sha256:393a76b98c6a4115d3f11ecf47006af22888d7c3a5cada1a0fe405ccc0623dd7

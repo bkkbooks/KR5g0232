@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 太清元道真經序元道者玄元之上道黃老之心祕也元和中孟謫仙降世其胎親皆積至誠醇厚謫仙又至慈敦孝先感東山陶大通君先示死生之變因命執本根焉本根即元道也次感南統樊大君戊戌歲降之口授此經故皆大紀樞要直指長生久視之道蓋黃庭云至道不煩矣
-  hash: sha256:9e90106e5ecf0f09908f60c0c26034319c6d26aaa702805fec85aa3ccbaa717b
+  text: 太清元道真經序元道者玄元之上道黄老之心秘也元和中孟謫仙降世其胎親皆積至誠醇厚謫仙又至慈敦孝先感東山陶大通君先示死生之變因命執本根焉本根即元道也次感南統樊大君戊戌歲降之口授此經故皆大紀樞要直指長生久視之道蓋黃庭云至道不煩矣
+  hash: sha256:5b2d7e96236cf008378a8097808bd1573fe3f5db6ec39dd2f26ad33f83e6bc51
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5g0232_HFL_000-001a, image: hfl/1055/1055-106.png}
 metadata:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
-hash: sha256:5f57f4936356517ed4eb3d2c6a809ddc8f3954f73b5afb4ab08cf6aa9fe5c2b7
+hash: sha256:5df14e764f3a5f5cf0418c10b2de940af3919f829f98d4f1d9e66a808b1f42a6
