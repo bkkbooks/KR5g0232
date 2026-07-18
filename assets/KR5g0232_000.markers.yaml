@@ -38,6 +38,7 @@ markers:
       ', id: KR5g0232_krp_000-bkkkrnewl5}
   - {type: line-break, offset: 58, content: '', id: KR5g0232_HFL_000-001a05}
   - {type: punctuation, offset: 65, content: (, id: KR5g0232_krp_000-bkkpn1}
+  - {type: voice, offset: 65, length: 6, name: note, id: n1}
   - {type: variant, offset: 67, length: 1, content: 即, CK-KZ: 卽}
   - {type: variant, offset: 67, length: 1, content: 即, CK-KZ-jye: 卽}
   - {type: variant, offset: 67, length: 1, content: 即, YP-C: 卽}
@@ -104,4 +105,4 @@ markers:
   - {type: variant, offset: 110, length: 0, content: '', CK-KZ-jye: 太清元道眞經卷上}
   - {type: variant, offset: 110, length: 0, content: '', YP-C: 太清元道眞經卷上}
   back: []
-hash: sha256:a520321050e18393b83f5460f82a2815bf3067512d7decd9c9fda01a8223d9a9
+hash: sha256:a0c42c36b44d1810ba067ce38caca18ff64d6448c25ba8985f87ddfffb453641
